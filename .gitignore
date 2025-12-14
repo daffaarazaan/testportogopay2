@@ -1,0 +1,10 @@
+# Python environment
+__pycache__/
+*.pyc
+
+# Data files (jika Anda memiliki data mentah yang sangat besar, tetapi model perlu diupload)
+# Jika model anda besar, anda mungkin ingin mengabaikannya
+# *.csv
+
+# Jupyter/Colab artifacts
+.ipynb_checkpoints/
